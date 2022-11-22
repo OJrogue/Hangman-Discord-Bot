@@ -1,6 +1,6 @@
 # Hangman game with discord bot integration
 
-Made for [czech university information technology seminar](https://ksi.fi.muni.cz/ulohy/514)
+Made for [Czech university IT seminar](https://ksi.fi.muni.cz/ulohy/514)
 
 ## How to play
 
@@ -10,7 +10,7 @@ Made for [czech university information technology seminar](https://ksi.fi.muni.c
    - Linux/macOS: `python3 -m pip install -U discord.py` and `python3 -m pip install -U python-dotenv`
    - Windows: `py -3 -m pip install -U discord.py` and `py -3 -m pip install -U python-dotenv`
 1. [Create a Discord bot and get its token](https://www.writebots.com/discord-bot-token/)
-1. Create an `.env` (no name) file in the same direcotry as your `app.py` file with:
+1. Create an `.env` (no name) file in the same directory as your `app.py` file with:
 
 ```
 TOKEN=<your discord bot token>
